@@ -31,6 +31,27 @@ class Reservation
     /**
      * @return DateTime
      */
+    public function getId(): int
+    {
+        return $this->id;
+    }
+
+    /**
+     * @param mixed $date
+     *
+     * @return Reservation
+     */
+    public function setId($id): Reservation
+    {
+        $this->id = $id;
+
+        return $this;
+    }
+
+
+    /**
+     * @return DateTime
+     */
     public function getDate(): DateTime
     {
         return $this->date;
@@ -41,28 +62,11 @@ class Reservation
      *
      * @return Reservation
      */
-    public function setDate($date): Reservation
+    public function setDate(Datetime $date): Reservation
     {
         $this->date = $date;
 
         return $this;
-    }
-
-
-    /**
-     * @return mixed
-     */
-    public function getId()
-    {
-        return $this->id;
-    }
-
-    /**
-     * @param mixed $id
-     */
-    public function setId($id): void
-    {
-        $this->id = $id;
     }
 
     /**

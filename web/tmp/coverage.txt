@@ -1,16 +1,16 @@
 
 
 Code Coverage Report:      
-  2021-02-07 22:20:48      
+  2021-02-08 11:00:49      
                            
  Summary:                  
   Classes: 40.00% (2/5)    
   Methods: 80.77% (21/26)  
   Lines:   88.34% (144/163)
 
-\App\Controller\V1::App\Controller\V1\FoodTrucksController
+\App\Controller\Api\V1::App\Controller\Api\V1\FoodTrucksController
   Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 45/ 45)
-\App\Controller\V2::App\Controller\V2\FoodTrucksController
+\App\Controller\Api\V2::App\Controller\Api\V2\FoodTrucksController
   Methods:  85.71% ( 6/ 7)   Lines:  98.15% ( 53/ 54)
 \App\Entity::App\Entity\Reservation
   Methods:  66.67% ( 4/ 6)   Lines:  66.67% (  6/  9)

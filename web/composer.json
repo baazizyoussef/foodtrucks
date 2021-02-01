@@ -35,8 +35,7 @@
         "symfony/maker-bundle": "^1.28",
         "symfony/phpunit-bridge": "^5.2",
         "symfony/proxy-manager-bridge": "5.2.*",
-        "symfony/var-dumper": "5.2.*",
-        "symfony/yaml": "5.2.*"
+        "symfony/var-dumper": "5.2.*"
     },
     "config": {
         "optimize-autoloader": true,
