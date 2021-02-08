@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1612782049">
-  <project timestamp="1612782049">
+<coverage generated="1612782577">
+  <project timestamp="1612782577">
     <package name="App\Controller\Api\V1">
       <file name="/var/www/html/src/Controller/Api/V1/FoodTrucksController.php">
         <class name="App\Controller\Api\V1\FoodTrucksController" namespace="App\Controller\Api\V1">
